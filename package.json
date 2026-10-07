@@ -1,0 +1,15 @@
+{
+  "name": "semrush-scraper",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Authority score, backlinks, and traffic, no Semrush account. Python, Node.js and cURL clients for the Semrush Scraper on Apify, pay per result.",
+  "main": "semrush_scraper.mjs",
+  "scripts": {
+    "start": "node semrush_scraper.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  },
+  "license": "MIT",
+  "homepage": "https://themineworks.com/actors/semrush-scraper/"
+}
